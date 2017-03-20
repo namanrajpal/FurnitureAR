@@ -1,0 +1,222 @@
+fileFormatVersion: 2
+guid: ad72a32bd4b5232489ddd7b27cd8c514
+timeCreated: 1488258605
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChamferBo0
+    100002: ChamferBo1
+    100004: ChamferBo2
+    100006: ChamferBo3
+    100008: ChamferBo4
+    100010: ChamferBo5
+    100012: ChamferBox
+    100014: Line01
+    100016: Line010
+    100018: Line02
+    100020: Line03
+    100022: Line04
+    100024: Line07
+    100026: Line08
+    100028: Line09
+    100030: Line10
+    100032: Line11
+    100034: Line12
+    100036: Line13
+    100038: Line23
+    100040: Line24
+    100042: Line25
+    100044: Line26
+    100046: Line27
+    100048: Line29
+    100050: Loft04
+    100052: Loft05
+    100054: Loft09
+    100056: Loft10
+    100058: //RootNode
+    400000: ChamferBo0
+    400002: ChamferBo1
+    400004: ChamferBo2
+    400006: ChamferBo3
+    400008: ChamferBo4
+    400010: ChamferBo5
+    400012: ChamferBox
+    400014: Line01
+    400016: Line010
+    400018: Line02
+    400020: Line03
+    400022: Line04
+    400024: Line07
+    400026: Line08
+    400028: Line09
+    400030: Line10
+    400032: Line11
+    400034: Line12
+    400036: Line13
+    400038: Line23
+    400040: Line24
+    400042: Line25
+    400044: Line26
+    400046: Line27
+    400048: Line29
+    400050: Loft04
+    400052: Loft05
+    400054: Loft09
+    400056: Loft10
+    400058: //RootNode
+    2300000: ChamferBo0
+    2300002: ChamferBo1
+    2300004: ChamferBo2
+    2300006: ChamferBo3
+    2300008: ChamferBo4
+    2300010: ChamferBo5
+    2300012: ChamferBox
+    2300014: Line01
+    2300016: Line010
+    2300018: Line02
+    2300020: Line03
+    2300022: Line04
+    2300024: Line07
+    2300026: Line08
+    2300028: Line09
+    2300030: Line10
+    2300032: Line11
+    2300034: Line12
+    2300036: Line13
+    2300038: Line23
+    2300040: Line24
+    2300042: Line25
+    2300044: Line26
+    2300046: Line27
+    2300048: Line29
+    2300050: Loft04
+    2300052: Loft05
+    2300054: Loft09
+    2300056: Loft10
+    3300000: ChamferBo0
+    3300002: ChamferBo1
+    3300004: ChamferBo2
+    3300006: ChamferBo3
+    3300008: ChamferBo4
+    3300010: ChamferBo5
+    3300012: ChamferBox
+    3300014: Line01
+    3300016: Line010
+    3300018: Line02
+    3300020: Line03
+    3300022: Line04
+    3300024: Line07
+    3300026: Line08
+    3300028: Line09
+    3300030: Line10
+    3300032: Line11
+    3300034: Line12
+    3300036: Line13
+    3300038: Line23
+    3300040: Line24
+    3300042: Line25
+    3300044: Line26
+    3300046: Line27
+    3300048: Line29
+    3300050: Loft04
+    3300052: Loft05
+    3300054: Loft09
+    3300056: Loft10
+    4300000: Line02
+    4300002: Line12
+    4300004: Line13
+    4300006: Line01
+    4300008: Line04
+    4300010: ChamferBox
+    4300012: ChamferBo0
+    4300014: ChamferBo1
+    4300016: ChamferBo2
+    4300018: Line08
+    4300020: ChamferBo3
+    4300022: Loft04
+    4300024: Loft05
+    4300026: Loft09
+    4300028: Line010
+    4300030: Line07
+    4300032: ChamferBo4
+    4300034: Line09
+    4300036: Line03
+    4300038: Line10
+    4300040: Line11
+    4300042: ChamferBo5
+    4300044: Line25
+    4300046: Line27
+    4300048: Line23
+    4300050: Line24
+    4300052: Loft10
+    4300054: Line26
+    4300056: Line29
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 27317766c87443241a2970e0684f3ffe
+timeCreated: 1490235050
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: divan FENDI ERO
+    100002: //RootNode
+    100004: Fob
+    100006: Line01
+    100008: Line03
+    100010: Rectangle01
+    100012: Tape01
+    100014: Tape01.Target
+    100016: VRayLight05
+    100018: VRayLight10
+    100020: VRayLight11
+    100022: VRayLight12
+    100024: VRayLight13
+    100026: VRayPhysicalCamera01
+    100028: VRayPhysicalCamera01.Target
+    100030: "\u043F\u043E\u0434\u0443\u0448\u043A\u0430 \u043F\u0443\u0445\u043B\u0430\u044F
+      2 01"
+    400000: divan FENDI ERO
+    400002: //RootNode
+    400004: Fob
+    400006: Line01
+    400008: Line03
+    400010: Rectangle01
+    400012: Tape01
+    400014: Tape01.Target
+    400016: VRayLight05
+    400018: VRayLight10
+    400020: VRayLight11
+    400022: VRayLight12
+    400024: VRayLight13
+    400026: VRayPhysicalCamera01
+    400028: VRayPhysicalCamera01.Target
+    400030: "\u043F\u043E\u0434\u0443\u0448\u043A\u0430 \u043F\u0443\u0445\u043B\u0430\u044F
+      2 01"
+    2300000: Fob
+    2300002: Line01
+    2300004: Line03
+    2300006: Rectangle01
+    2300008: "\u043F\u043E\u0434\u0443\u0448\u043A\u0430 \u043F\u0443\u0445\u043B\u0430\u044F
+      2 01"
+    3300000: Fob
+    3300002: Line01
+    3300004: Line03
+    3300006: Rectangle01
+    3300008: "\u043F\u043E\u0434\u0443\u0448\u043A\u0430 \u043F\u0443\u0445\u043B\u0430\u044F
+      2 01"
+    4300000: Fob
+    4300002: Rectangle01
+    4300004: Line03
+    4300006: "\u043F\u043E\u0434\u0443\u0448\u043A\u0430 \u043F\u0443\u0445\u043B\u0430\u044F
+      2 01"
+    4300008: Line01
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

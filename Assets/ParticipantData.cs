@@ -5,19 +5,17 @@ using UnityEngine;
 public class ParticipantData{
 
     public string name;
-    public Hashtable productRatings;
+	public string choice;
 
  
 
 	ParticipantData (string name) {
         this.name = name;    
-        productRatings = new Hashtable();
     }
 
-    public void AddRating(string productName, int rating)
-    {
-        productRatings.Add(productName, rating);
-    }
-	
+	public void setChoice(string product)
+	{
+		choice = product;
+	}
 	
 }

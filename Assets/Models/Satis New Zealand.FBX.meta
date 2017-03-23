@@ -1,0 +1,177 @@
+fileFormatVersion: 2
+guid: 59f6c2915c9aff045b8a24945604c9df
+timeCreated: 1490235014
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Satis New Sealand_MeshPart0
+    100002: Satis New Sealand_MeshPart1
+    100004: Satis New Sealand_MeshPart10
+    100006: Satis New Sealand_MeshPart11
+    100008: Satis New Sealand_MeshPart12
+    100010: Satis New Sealand_MeshPart13
+    100012: Satis New Sealand_MeshPart14
+    100014: Satis New Sealand_MeshPart15
+    100016: Satis New Sealand_MeshPart16
+    100018: Satis New Sealand_MeshPart17
+    100020: Satis New Sealand_MeshPart18
+    100022: Satis New Sealand_MeshPart19
+    100024: Satis New Sealand_MeshPart2
+    100026: Satis New Sealand_MeshPart3
+    100028: Satis New Sealand_MeshPart4
+    100030: Satis New Sealand_MeshPart5
+    100032: Satis New Sealand_MeshPart6
+    100034: Satis New Sealand_MeshPart7
+    100036: Satis New Sealand_MeshPart8
+    100038: Satis New Sealand_MeshPart9
+    100040: //RootNode
+    400000: Satis New Sealand_MeshPart0
+    400002: Satis New Sealand_MeshPart1
+    400004: Satis New Sealand_MeshPart10
+    400006: Satis New Sealand_MeshPart11
+    400008: Satis New Sealand_MeshPart12
+    400010: Satis New Sealand_MeshPart13
+    400012: Satis New Sealand_MeshPart14
+    400014: Satis New Sealand_MeshPart15
+    400016: Satis New Sealand_MeshPart16
+    400018: Satis New Sealand_MeshPart17
+    400020: Satis New Sealand_MeshPart18
+    400022: Satis New Sealand_MeshPart19
+    400024: Satis New Sealand_MeshPart2
+    400026: Satis New Sealand_MeshPart3
+    400028: Satis New Sealand_MeshPart4
+    400030: Satis New Sealand_MeshPart5
+    400032: Satis New Sealand_MeshPart6
+    400034: Satis New Sealand_MeshPart7
+    400036: Satis New Sealand_MeshPart8
+    400038: Satis New Sealand_MeshPart9
+    400040: //RootNode
+    2300000: Satis New Sealand_MeshPart0
+    2300002: Satis New Sealand_MeshPart1
+    2300004: Satis New Sealand_MeshPart10
+    2300006: Satis New Sealand_MeshPart11
+    2300008: Satis New Sealand_MeshPart12
+    2300010: Satis New Sealand_MeshPart13
+    2300012: Satis New Sealand_MeshPart14
+    2300014: Satis New Sealand_MeshPart15
+    2300016: Satis New Sealand_MeshPart16
+    2300018: Satis New Sealand_MeshPart17
+    2300020: Satis New Sealand_MeshPart18
+    2300022: Satis New Sealand_MeshPart19
+    2300024: Satis New Sealand_MeshPart2
+    2300026: Satis New Sealand_MeshPart3
+    2300028: Satis New Sealand_MeshPart4
+    2300030: Satis New Sealand_MeshPart5
+    2300032: Satis New Sealand_MeshPart6
+    2300034: Satis New Sealand_MeshPart7
+    2300036: Satis New Sealand_MeshPart8
+    2300038: Satis New Sealand_MeshPart9
+    3300000: Satis New Sealand_MeshPart0
+    3300002: Satis New Sealand_MeshPart1
+    3300004: Satis New Sealand_MeshPart10
+    3300006: Satis New Sealand_MeshPart11
+    3300008: Satis New Sealand_MeshPart12
+    3300010: Satis New Sealand_MeshPart13
+    3300012: Satis New Sealand_MeshPart14
+    3300014: Satis New Sealand_MeshPart15
+    3300016: Satis New Sealand_MeshPart16
+    3300018: Satis New Sealand_MeshPart17
+    3300020: Satis New Sealand_MeshPart18
+    3300022: Satis New Sealand_MeshPart19
+    3300024: Satis New Sealand_MeshPart2
+    3300026: Satis New Sealand_MeshPart3
+    3300028: Satis New Sealand_MeshPart4
+    3300030: Satis New Sealand_MeshPart5
+    3300032: Satis New Sealand_MeshPart6
+    3300034: Satis New Sealand_MeshPart7
+    3300036: Satis New Sealand_MeshPart8
+    3300038: Satis New Sealand_MeshPart9
+    4300000: Satis New Sealand_MeshPart0
+    4300002: Satis New Sealand_MeshPart1
+    4300004: Satis New Sealand_MeshPart2
+    4300006: Satis New Sealand_MeshPart3
+    4300008: Satis New Sealand_MeshPart4
+    4300010: Satis New Sealand_MeshPart5
+    4300012: Satis New Sealand_MeshPart6
+    4300014: Satis New Sealand_MeshPart7
+    4300016: Satis New Sealand_MeshPart8
+    4300018: Satis New Sealand_MeshPart9
+    4300020: Satis New Sealand_MeshPart10
+    4300022: Satis New Sealand_MeshPart11
+    4300024: Satis New Sealand_MeshPart12
+    4300026: Satis New Sealand_MeshPart13
+    4300028: Satis New Sealand_MeshPart14
+    4300030: Satis New Sealand_MeshPart15
+    4300032: Satis New Sealand_MeshPart16
+    4300034: Satis New Sealand_MeshPart17
+    4300036: Satis New Sealand_MeshPart18
+    4300038: Satis New Sealand_MeshPart19
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
